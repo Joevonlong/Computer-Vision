@@ -14,6 +14,9 @@
 - [推荐书籍列表](#booklists)
 - [计算机视觉专项领域学习](#special_learning)
 
+- [推荐好用的资料](#recomend_resources)
+
+
 ## <h2 id="preparation">前言</h2>
    我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
 
@@ -113,6 +116,12 @@ Matlab程序语言设计| 暂无 | 暂无
 - [ECCV](http://eccv2016.org/)
 - [MICCAI](http://www.miccai2016.org/en/)
 - [其他](http://cvrs.whu.edu.cn/index.php?m=content&c=index&a=show&catid=72&id=22)
+
+
+
+## <h2 id="recomend_resources">课程列表</h2>
+[一个神奇的网站：Annotated Computer Vision Bibliography: Table of Contents](http://www.visionbib.com/bibliography/contents.html)
+Keith Price老爷子从1994年开始做了这个索引，涵盖了所有计算机视觉里面所有topic，所有subtopic的著作，包括论文，教材，还对各类主题的关键词。这个网站在Szeliski等人的书应该都有提及。Price坚持了23年，频繁更新（最近一次是三月10号），收录每个方向重要期刊，会议文献和书籍，并且保证了所有链接不失效。
 
 
 
