@@ -13,8 +13,8 @@
  
 - [推荐书籍列表](#booklists)
 - [计算机视觉专项领域学习](#special_learning)
-
 - [推荐好用的资料](#recomend_resources)
+- [常用开源库](#open_resource_lib)
 
 
 ## <h2 id="preparation">前言</h2>
@@ -105,6 +105,7 @@ Matlab程序语言设计| 暂无 | 暂无
 [Computer Vision: Algorithms and Applications](https://www.amazon.cn/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E6%9D%8E%E8%88%AA/dp/B007TSFMTA) | 一般
 [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) | 较难
 [Computer Vision: A Modern Approach](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf) | 较难
+[Multiple View Geometry in Computer Vision](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf) | 未知
 [Digital Image Processing, 3rd Edition](https://www.amazon.com/Digital-Image-Processing-3rd-Edition/dp/013168728X) | 较难
   
   
@@ -120,8 +121,24 @@ Matlab程序语言设计| 暂无 | 暂无
 
 
 ## <h2 id="recomend_resources">推荐好用的资料</h2>
-[一个神奇的网站：Annotated Computer Vision Bibliography: Table of Contents](http://www.visionbib.com/bibliography/contents.html)
-Keith Price老爷子从1994年开始做了这个索引，涵盖了所有计算机视觉里面所有topic，所有subtopic的著作，包括论文，教材，还对各类主题的关键词。这个网站在Szeliski等人的书应该都有提及。Price坚持了23年，频繁更新（最近一次是三月10号），收录每个方向重要期刊，会议文献和书籍，并且保证了所有链接不失效。
+- [一个神奇的网站：Annotated Computer Vision Bibliography: Table of Contents](http://www.visionbib.com/bibliography/contents.html)
+- [Annotated Computer Vision Bibliography: Table of Contents：超全的计算机视觉知识网址，罗列近20年的知识（目前还在更新中）](http://www.visionbib.com/)
+
+	Keith Price老爷子从1994年开始做了这个索引，涵盖了所有计算机视觉里面所有topic，所有subtopic的著作，包括论文，教材，还对各类主题的关键词。这个网站在Szeliski等人的书应该都有提及。Price坚持了23年，频繁更新（最近一次是三月10号），收录每个方向重要期刊，会议文献和书籍，并且保证了所有链接不失效。
+
+- [CS131: Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/)
+
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/CS231M: Mobile Computer Vision)
+
+- [CVonline：非常全面的资源链接](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
+
+- [Learn OpenCV](https://www.learnopencv.com/)
+
+	一些新闻和新消息，一直在更新。
+
+
+
+## <h2 id="open_resource_lib">常用开源库</h2>
 
 
 
