@@ -42,6 +42,11 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 [卷积神经网络视觉识别](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)| Stanford | 暂无 |  [链接](http://cs231n.stanford.edu/syllabus.html)
 计算机视觉高级阅读 | Stanford | 暂无 |  [链接](http://vision.stanford.edu/teaching/cs331_winter14/syllabus.html)
 计算机视觉前沿 | Stanford | 暂无 |  [链接](http://vision.stanford.edu/teaching/cs231b_spring1415/syllabus.html)
+[EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) | Colorado School of Mines | 暂无 | [链接](http://inside.mines.edu/~whoff/courses/EENG512/lectures/)
+[Multiple View Geometry](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)(Youtube视频教程)  | TU Munich| 暂无 | [链接1](http://vision.in.tum.de/teaching/ss2016/mvg2016/material), password:mvg-ss16, [链接2](http://vision.in.tum.de/teaching/ss2014/mvg2014/material), password:mvg
+[Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) (视频教程) | Rensselaer Polytechnic Institute | 暂无 | [链接](https://www.ecse.rpi.edu/~rjradke/improccourse.html)
+[Computer Vision for Visual Effects ](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html)(视频教程) | Rensselaer Polytechnic Institute | 暂无 | [链接](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html)
+
 
 ## <h2 id="learning_route">推荐学习路线</h2>
 ### <h3 id="math_basic">数学基础初级</h3>
@@ -135,7 +140,9 @@ Matlab程序语言设计| 暂无 | 暂无
 - [Learn OpenCV](https://www.learnopencv.com/)
 
 	一些新闻和新消息，一直在更新。
-
+	
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+	github上关于CV方向超全面的资料库，涵盖常用书籍，课程，期刊/会议，软件，数据集和博客等。
 
 
 ## <h2 id="open_resource_lib">常用开源库</h2>
